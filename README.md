@@ -4,7 +4,7 @@
 
 </div>
 
-🎓 I'm a computer science & engineering student with a passion for building impactful software, exploring machine learning, and solving real-world problems through code.
+🎓 I'm a computer science & engineering student with a passion for building impactful software, exploring machine learning, and solving real-world problems.
 
 ## 🚀 About Me
 - 🔭 I’m currently working on: [Data science and Machine learning projects]
