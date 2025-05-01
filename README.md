@@ -1,18 +1,11 @@
-- 👋 Hi, I’m @Phani000
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Phani000/Phani000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋, I'm Phani Shekar Reddy</h1>
+<br>💻 B.Tech CSE Student | Data Science & Machine Learning | Web developement | Data Analytics<br>📍 Parul University, Vadodara<br><br>Passionate about turning data into insights & AI into reality
 
 <p align="left">
 </p>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/phani-shekar-reddy-bollareddy-a229a922a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanishekarreddy116@gmail.com) 
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -50,3 +43,6 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
+
+
+
