@@ -1,4 +1,8 @@
-## Hi, I'm Phani ✨​
+<div align="center">
+  
+# Hi, I'm Phani ✨​
+
+</div>
 
 🎓 I'm a computer science & engineering student with a passion for building impactful software, exploring machine learning, and solving real-world problems through code.
 
@@ -12,7 +16,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/phani-shekar-reddy-bollareddy-a229a922a/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phanishekarreddy116@gmail.com) 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
   
   ### Languages
@@ -49,7 +53,7 @@
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
-# GitHub Stats: 🌱​
+## GitHub Stats: 🌱​
 
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phani000&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
