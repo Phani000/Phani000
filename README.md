@@ -55,10 +55,13 @@
 
 ## GitHub Stats: 🌱​
 
+![](https://github-readme-stats.vercel.app/api?username=Phani000&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <space/>
+![](https://nirzak-streak-stats.vercel.app/?user=Phani000&theme=dark&hide_border=false)<br/>
+
+<div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phani000&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-  ![](https://github-readme-stats.vercel.app/api?username=Phani000&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-  ![](https://nirzak-streak-stats.vercel.app/?user=Phani000&theme=transparent&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Phani000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
   
 
 <div align="center">
